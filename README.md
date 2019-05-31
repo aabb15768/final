@@ -16,6 +16,9 @@
 cd b03204032_final (or cd final)
 sudo npm install
 sudo npm start
+//如果有跳出錯誤訊息
+//sudo npm install fsevents@1.2.7
+//sudo npm start
 ```
 
 
